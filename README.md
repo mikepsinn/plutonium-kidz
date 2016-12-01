@@ -1,1 +1,2 @@
-# plutonium-kidz
+# The Plutonium Kidz
+http://plutoniumkidz.com
