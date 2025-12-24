@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://plutoniumkidz.mikesinn.com/sitemap.xml
+
+# Disallow crawling of rollover images directory (for performance)
+Disallow: /rollover/
+
+# Disallow crawling of legacy mirrored files
+Disallow: /index-2.html
